@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_service_test"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xhb.onlystar.ServiceTestActivity">
+
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+    <Button
+        android:id="@+id/start_service"
+        android:text="开启服务"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/stop_service"
+        android:text="关闭服务"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"/>
+    </LinearLayout>
+</RelativeLayout>

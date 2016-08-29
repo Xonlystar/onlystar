@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_cart.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_cart.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_user_press.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_user_press.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_discover_press.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_discover_press.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_discover.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_discover.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_home.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_home.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_home_press.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_home_press.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_search.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_search.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_user.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_user.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_hot_press.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_hot_press.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_cartfill_press.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_cartfill_press.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\icon_hot.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\mipmap-mdpi\\icon_hot.png"
+    }
+]

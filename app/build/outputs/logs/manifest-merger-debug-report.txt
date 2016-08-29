@@ -1,0 +1,319 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:1:1-159:12
+	package
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:2:11-28
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:7:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:8:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:17:5-85
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:17:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:23:22-70
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:36:5-74
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:36:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:42:5-83
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:42:22-81
+application
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:44:5-157:19
+MERGED from [com.android.support:design:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha4\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:47:9-41
+	android:supportsRtl
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:48:9-35
+	android:allowBackup
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:45:9-35
+	android:icon
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:46:9-43
+	android:theme
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:49:9-40
+activity#com.xhb.onlystar.MainActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:51:9-58
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:51:19-56
+activity#com.xhb.onlystar.SplashActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:52:9-58:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:52:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:53:13-57:29
+action#android.intent.action.MAIN
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:54:17-68
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:56:17-76
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:56:27-74
+activity#com.xhb.onlystar.TabTestActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:59:9-60:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:59:19-59
+activity#com.xhb.onlystar.XutilsActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:61:9-62:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:61:19-58
+activity#com.xhb.onlystar.ViewTestActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:63:9-64:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:63:19-60
+activity#com.xhb.onlystar.MyListActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:65:9-66:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:65:19-58
+activity#com.xhb.onlystar.FragmentTestActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:67:9-68:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:67:19-64
+activity#com.xhb.onlystar.HandlerTestActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:69:9-70:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:69:19-63
+activity#com.xhb.onlystar.ServiceTestActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:71:9-72:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:71:19-63
+activity#com.xhb.onlystar.SendBroadcastActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:73:9-74:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:73:19-65
+service#com.xhb.service.MusicService
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:76:9-63
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:76:18-61
+receiver#com.xhb.widget.TestWidget
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:89:9-97:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:89:19-59
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:90:13-92:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:91:17-83
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:91:25-81
+meta-data#android.appwidget.provider
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:94:13-96:60
+	android:resource
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:96:17-58
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:95:17-58
+activity#com.xhb.onlystar.TestWebviewActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:99:9-100:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:99:19-63
+activity#com.xhb.onlystar.IndicatorActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:101:9-102:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:101:19-61
+activity#com.xhb.onlystar.TestAsyncTaskActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:103:9-104:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:103:19-65
+activity#com.xhb.onlystar.TestAnimationActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:105:9-106:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:105:19-65
+activity#com.xhb.onlystar.TestTabHostActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:107:9-108:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:107:19-63
+activity#com.xhb.onlystar.DbTestActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:109:9-60
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:109:19-58
+activity#com.xhb.onlystar.NetworkActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:110:9-61
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:110:19-59
+provider#com.xhb.provider.TestContentProvider
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:112:9-119:20
+	android:authorities
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:114:13-42
+	android:enabled
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:115:13-35
+	android:multiprocess
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:117:13-40
+	android:exported
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:116:13-36
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:113:13-57
+grant-uri-permission
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:118:13-61
+	android:pathPattern
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:118:35-59
+activity#com.xhb.onlystar.XmlAndJsonActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:121:9-122:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:121:19-62
+activity#com.xhb.onlystar.ListViewDemoActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:123:9-124:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:123:19-64
+activity#com.xhb.onlystar.ThreadActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:125:9-126:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:125:19-58
+activity#com.xhb.messenger.MessengerActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:127:9-128:20
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:127:19-62
+activity#com.xhb.onlystar.SensorManagerActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:129:9-67
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:129:19-65
+activity#com.xhb.aidl.AIDLActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:130:9-54
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:130:19-52
+activity#com.xhb.onlystar.MyMapActivity
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:131:9-59
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:131:19-57
+service#com.xhb.aidl.AIDLService
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:136:9-140:38
+	android:enabled
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:139:13-35
+	android:process
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:138:13-51
+	android:exported
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:140:13-36
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:137:13-45
+service#com.xhb.messenger.MessengerService
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:142:9-144:15
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:143:13-55
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:148:9-150:64
+	android:value
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:150:13-61
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:149:13-52
+service#com.baidu.location.f
+ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:151:9-155:19
+	android:enabled
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:153:13-35
+	android:process
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:154:13-38
+	android:name
+		ADDED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml:152:13-48
+uses-sdk
+INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha4] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha4\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\AndroidProject\onlystar\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProject\onlystar\app\src\main\AndroidManifest.xml

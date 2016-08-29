@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <Button
+        android:onClick="xml_sax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="XML_SAX"
+        android:textAllCaps="false"/>
+    <Button
+        android:onClick="xml_pull"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="XML_PULL"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:onClick="xml_dom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="XML_DOM"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:onClick="json"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JSON"
+        android:textAllCaps="false"/>
+
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+</LinearLayout>

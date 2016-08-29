@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\chuxuezhe.mp3",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\raw\\chuxuezhe.mp3"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\json.txt",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\raw\\json.txt"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\raw\\test.xml"
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_indicator"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xhb.onlystar.IndicatorActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:text="测试"
+        android:gravity="center"
+        android:layout_width="100dp"
+        android:layout_height="50dp"/>
+    </android.support.v7.widget.Toolbar>
+
+    <FrameLayout
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="260dp">
+       <!-- <ImageView
+            android:src="@drawable/one"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>-->
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <com.xhb.view.Indicator
+            android:id="@+id/my_indicator"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_width="300dp"
+            app:radius="7"
+            app:mNum="4"
+            android:layout_height="80dp"/>
+    </FrameLayout>
+</RelativeLayout>

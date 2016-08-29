@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon_home.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\selector_icon_home.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_0.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\loading_0.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\three.jpg",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\three.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\two.jpg",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\two.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon_mine.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\selector_icon_mine.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\h_line.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\h_line.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\waiting_up.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\waiting_up.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_6.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\loading_6.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_2.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\loading_2.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_5.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\loading_5.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon_hot.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\selector_icon_hot.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test.9.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\test.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\load_bg.9.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\load_bg.9.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\four.jpg",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\four.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pull_to_refresh_arrow.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\pull_to_refresh_arrow.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon_category.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\selector_icon_category.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_3.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\loading_3.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\one.jpg",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\one.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_bar.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\custom_progress_bar.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_4.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\loading_4.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_7.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\loading_7.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_icon_cart.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\selector_icon_cart.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_1.png",
+        "source": "F:\\AndroidProject\\onlystar\\app\\src\\main\\res\\drawable\\loading_1.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\AndroidProject\\onlystar\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    }
+]
